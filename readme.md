@@ -8,7 +8,7 @@
 * spring-cloud-custom-netflix-lb-starter：自定义负载模块
 * example-server：示例服务端（todo 待补充）
 * example-client：示例客户端（todo 待补充）
-* example-server-facade：示例facade，一般由服务提供者提供，在 client 中引入使用（todo 待补充）
+* example-server-facade：示例facade，一般由服务提供者提供，在 client 中引入使用
 
 ***
 使用示例：
