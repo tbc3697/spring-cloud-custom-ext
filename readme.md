@@ -107,6 +107,6 @@ org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
   pub.tbc.sc.ext.demo.DemoClientAutoConfiguration
 ```
 
-4. 最后，业务端引入该 facade包上，直接在应用中注入MyInterface即可；
+4. 最后，业务端引入该 facade包上，直接在应用中注入 DemoFeignClient 即可；
 
 
